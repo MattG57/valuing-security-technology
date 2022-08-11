@@ -1,2 +1,8 @@
-# valuing-security-technology
-This repo is focused on the evaluation of Security Tech and Practices as part of either a "War of Maneuver" or a "War of Position" 
+## Security Decisions are often made from analyzing alternative Costs and Risks, Time and Speed must also be carefully considered!
+
+### Like War Strategies, There are two general ways to approach security:  
+- Rely on Position
+- Rely on Maneuver.
+
+#### Position Strategy
+To rely on Position means to prepare for a siege.  This represents a focus on Perimeter security and staying power.
